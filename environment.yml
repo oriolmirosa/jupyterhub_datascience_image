@@ -298,7 +298,6 @@ dependencies:
     - psycopg2-binary==2.7.4
     - pytesseract==0.2.2
     - rsdf==0.9.1
-    - skoot==1.0.0
     - smart-open==1.5.7
     - sqlalchemy-redshift==0.7.1
     - style==1.1.5
@@ -309,5 +308,3 @@ dependencies:
     - websocket-client==0.48.0
     - werkzeug==0.14.1
     - wurlitzer==1.0.2
-    - zbar-py==1.0.4
-    - zbarlight==2.1
